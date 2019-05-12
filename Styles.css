@@ -1,0 +1,62 @@
+﻿.header {
+	width: 100%;
+	position: relative;
+	top: 0px;
+}
+
+.small-images {
+	width: 50%;
+	position: relative;
+	top: 45px;
+	left: 30px;
+}
+
+.main-image {
+	width: 90%;
+	position: relative;
+	top: 10px;
+	left: 9%;
+	
+}
+
+.divider1 {
+	width:94%;
+	position:relative;
+	left: 3%;
+}
+
+.divider2 {
+	width:94%;
+	position: relative;
+	top: 20px;
+	left: 3%;
+}
+
+.base-text {
+	text-align: left;
+	font-size: 30px;
+	color: gray;
+	position: relative;
+	top: 10px;
+	left: 25px;
+} 
+.left-text {
+	text-align: left;
+	font-size: 15px;
+	color: gray;
+	position: relative;
+	top: 22px;
+	left: 15px;
+}
+.logo-images {
+	width: 80px;
+	position: relative;
+	top: 20px;
+}
+.sub-text {
+	font-size: 25px;
+	position: relative;
+	color: gray;
+	left: 5px;
+	bottom: 5px;
+}
